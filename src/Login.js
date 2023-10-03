@@ -50,7 +50,7 @@ function Login() {
         </p>
 
         {/* <button className='login__registerButton' onClick={register}>Create your Amazon Account</button> */}
-        <button onClick={register}>Remove from basket</button>
+        <button onClick={register}>Create your Amazon Account</button>
       </div>
     </div>
   )
